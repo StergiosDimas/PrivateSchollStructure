@@ -1,0 +1,7 @@
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\obj\Debug\Assignent1_PrivateSchoolStructure.csprojAssemblyReference.cache
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\obj\Debug\Assignent1_PrivateSchoolStructure.csproj.CoreCompileInputs.cache
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\bin\Debug\Assignent1_PrivateSchoolStructure.exe.config
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\bin\Debug\Assignent1_PrivateSchoolStructure.exe
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\bin\Debug\Assignent1_PrivateSchoolStructure.pdb
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\obj\Debug\Assignent1_PrivateSchoolStructure.exe
+C:\Users\jloom\source\repos\AFDemp\CSharp\Assignent1_PrivateSchoolStructure\Assignent1_PrivateSchoolStructure\obj\Debug\Assignent1_PrivateSchoolStructure.pdb
